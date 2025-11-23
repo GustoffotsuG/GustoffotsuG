@@ -10,7 +10,7 @@
 
   ---
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&width=435&lines=Arquitectura+de+Computadores;Optimizaci%C3%B3n+y+Bajo+Nivel;Programaci%C3%B3n+Competitiva;FPGA+%26+Hardware+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Arquitectura+de+Computadores;Optimizaci%C3%B3n+y+Bajo+Nivel;Programaci%C3%B3n+Competitiva;FPGA+%26+Hardware+Design" alt="Typing SVG" />
 
 </div>
 
